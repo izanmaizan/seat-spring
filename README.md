@@ -1,6 +1,6 @@
 # Seat
 
-Penjualan tiket acara dengan pemilihan kursi. Backend Spring Boot untuk belajar transaksi, locking, security, dan event streaming.
+Penjualan tiket acara dengan pemilihan kursi. Backend Spring Boot untuk transaksi, locking, security, dan event streaming.
 
 ## Tech stack
 
